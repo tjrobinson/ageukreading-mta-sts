@@ -1,1 +1,1 @@
-include: [".well-known/ma-sts.txt"]
+include: [".well-known"]
